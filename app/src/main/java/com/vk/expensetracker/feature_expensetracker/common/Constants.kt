@@ -1,4 +1,4 @@
-package com.vk.expensetracker.feature_expensetracker.util
+package com.vk.expensetracker.feature_expensetracker.common
 
 class Constants {
     companion object{
