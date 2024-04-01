@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.vk.expensetracker"
+    namespace = "com.vk.wallet"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.vk.expensetracker"
+        applicationId = "com.vk.wallet"
         minSdk = 27
         targetSdk = 34
         versionCode = 1
@@ -101,4 +101,7 @@ dependencies {
 
     // Kotlin + coroutines
     implementation(libs.androidx.work.runtime.ktx)
+
+    // Extended Icons
+    implementation(libs.androidx.material.icons.extended)
 }
