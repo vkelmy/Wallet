@@ -27,8 +27,6 @@ fun AccountScreen(
     val accounts by accountViewModel.allAccounts.collectAsState()
     val currency by accountViewModel.selectedCurrencyCode.collectAsState()
 
-    println("accounts -> $accounts")
-
     Surface(
         color = MaterialTheme.colorScheme.background
     ) {
