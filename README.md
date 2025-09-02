@@ -5,12 +5,11 @@ Three different accounts (Card, Cash, Pix - "Brazilian payment method"), Dark mo
 
 
 ## Preview
---- | --- | --- |--- |---
-<img src="screenshots/add_entries.jpg" width="250" alt="splash"> | <img src="screenshots/check_insights.jpg" width="250" alt="splash"> | <img src="screenshots/decisions.jpg" width="250" alt="splash"> | <img src="screenshots/currency.jpg" width="250" alt="currency"> | <img src="screenshots/home.jpg" width="250" alt="home">
-<img src="screenshots/add_modal.jpg" width="250" alt="add modal"> | <img src="screenshots/add_transaction.jpg" width="250" alt="add transaction"> | <img src="screenshots/keypad.jpg" width="250" alt="keypad"> | <img src="screenshots/insight.jpg" width="250" alt="insight"> | <img src="screenshots/accounts.jpg" width="250" alt="accounts">
-<img src="screenshots/account_details.jpg" width="250" alt="account details"> | <img src="screenshots/settings.jpg" width="250" alt="settings">
-<img src="screenshots/dark_home.jpg" width="250" alt="home"> | <img src="screenshots/dark_add_modal.jpg" width="250" alt="add modal"> | <img src="screenshots/dark_add_transaction.jpg" width="250" alt="add transaction"> | <img src="screenshots/dark_insight.jpg" width="250" alt="insight"> | <img src="screenshots/dark_accounts.jpg" width="250" alt="accounts">
-<img src="screenshots/dark_account_details.jpg" width="250" alt="account details"> | <img src="screenshots/dark_settings.jpg" width="250" alt="settings"> | <img src="screenshots/dark_currency.jpg" width="250" alt="currency">
+<img src="screenshots/add_entries.jpg" width="230" alt="splash"> <img src="screenshots/check_insights.jpg" width="230" alt="splash"> <img src="screenshots/decisions.jpg" width="230" alt="splash"> <img src="screenshots/currency.jpg" width="230" alt="currency"> <img src="screenshots/home.jpg" width="230" alt="home">
+<img src="screenshots/add_modal.jpg" width="230" alt="add modal"> <img src="screenshots/add_transaction.jpg" width="230" alt="add transaction"> <img src="screenshots/keypad.jpg" width="230" alt="keypad"> <img src="screenshots/insight.jpg" width="230" alt="insight"> <img src="screenshots/accounts.jpg" width="230" alt="accounts">
+<img src="screenshots/account_details.jpg" width="230" alt="account details"> <img src="screenshots/settings.jpg" width="230" alt="settings">
+<img src="screenshots/dark_home.jpg" width="230" alt="home"> <img src="screenshots/dark_add_modal.jpg" width="230" alt="add modal"> <img src="screenshots/dark_add_transaction.jpg" width="230" alt="add transaction"> <img src="screenshots/dark_insight.jpg" width="230" alt="insight"> <img src="screenshots/dark_accounts.jpg" width="230" alt="accounts">
+<img src="screenshots/dark_account_details.jpg" width="230" alt="account details"> <img src="screenshots/dark_settings.jpg" width="230" alt="settings"> <img src="screenshots/dark_currency.jpg" width="230" alt="currency">
 
 
 ## Built With
